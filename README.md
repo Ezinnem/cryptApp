@@ -1,4 +1,4 @@
 
 # cryptApp
 
-A web application that isplays the crypto market upate
+A web application that displays the crypto market update.
