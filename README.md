@@ -8,7 +8,7 @@ This CryptApp project was bootstrapped with [Create React App](https://github.co
 CryptApp is a cryptocurrency website built using React, Redux and RapidAPI.
 
 Features:
-1. Displays the top 20 cryptocurrency with their basic details.
+1. Displays the top 10 cryptocurrency with their basic details.
 2. Shows the latest cryptocurrency news.
 3. Use can filter through Search Feature the desired crypto currency to be viewed.
 4. More details regarding a Coin can be seen when the coin card is click on.
@@ -40,6 +40,3 @@ Your app is ready to be deployed!
 
 You can view the demo on the browser [CryptApp](https://zinny-crypto.netlify.app/).
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
