@@ -1,5 +1,5 @@
 # CryptApp
-A React website for viewing the differen
+A React website for viewing the different cyrtocurrencies values and rates.
 
 
 ## Descripton:
