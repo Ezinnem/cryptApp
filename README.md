@@ -1,6 +1,5 @@
-# Getting Started with CryptApp
-
-This CryptApp project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# CryptApp
+A React website for viewing the differen
 
 
 ## Descripton:
