@@ -6,7 +6,7 @@ A React website for viewing the different cyrtocurrencies values and rates.
 
 CryptApp is a cryptocurrency website built using React, Redux and RapidAPI.
 
-Features:
+## Features:
 1. Displays the top 10 cryptocurrency with their basic details.
 2. Shows the latest cryptocurrency news.
 3. Use can filter through Search Feature the desired crypto currency to be viewed.
