@@ -32,7 +32,7 @@ const Cryptocurrencies = ({ simplified }) => {
                 {cryptos?.map((currency) => (
                     <Col xs={24} sm={12} lg={6} className="crypto-card" key={currency.rank}>
                         <Link to={`/crypto/${currency.uuid}`}>
-                            <Card title={`${currency.rank} .${currency.name}`} extra={<img className="crypto-image" src={currency.iconUrl} />}  hoverable>
+                            <Card title={`${currency.rank} .${currency.name}`} extra={<img className="crypto-image" src={currency.iconUrl} alt="coin" />}  hoverable>
                                 <p>Price: {millify(currency.price)}</p>
                                 <p>id a:{ currency.uuid}</p>
                                 <p> Market Cap: {millify(currency.marketCap)}</p>
