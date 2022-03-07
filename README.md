@@ -16,4 +16,3 @@ CryptApp is a cryptocurrency website built using React, Redux and RapidAPI.
 ## See the demo
 
 You can view the demo on the browser [CryptApp](https://zinny-crypto.netlify.app/).
-
