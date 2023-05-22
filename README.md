@@ -10,7 +10,7 @@ CryptApp is a cryptocurrency website built using React, Redux, and RapidAPI.
 2. Shows the latest cryptocurrency news.
 3. Use can filter through Search Feature the desired cryptocurrency to be viewed.
 4. More details regarding a Coin can be seen when the coin card is clicked on.
-4. Completely responsive website designed using Ant Design.
+5. Completely responsive website designed using Ant Design.
 
 ## See the demo
 
