@@ -1,7 +1,7 @@
 # CryptApp
 A React website for viewing the different cryptocurrencies' values and rates.
 
-## Description
+## Description:
 
 CryptApp is a cryptocurrency website built using React, Redux, and RapidAPI.
 
